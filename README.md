@@ -1,0 +1,2 @@
+# Recursion
+A mini project for The Odin project's Full Stack Ruby On Rails path Ruby Programming section where we have to build a merge sort and fibonacci using recursive. The solution for each problem are in their own file.
